@@ -1,1 +1,31 @@
 "#la-saliere" 
+
+
+_Pour l'instant j'ai juste copié le mail que je t'ai envoyé. 
+Il faudra qu'on prenne le temps de structurer ce document et de le mettre à jour avec ce qu'on s'est dit hier._
+
+
+*Le concept*
+
+
+Ça fait des années que je me dis que les gens qui partent à la retraite emportent avec eux un savoir-faire parfois dur à retrouver. 
+Et de plus, certains de ces retraités vive assez mal d'être désœuvrés et de ne plus avoir de reconnaissance sociale. 
+Parallèlement, les jeunes (nous!) on vit dans une époque complètement folle où on sait envoyer des textos sans savoir faire de l'apiculture ou une vidange.
+Donc ça fait des années que je me dis qu'il faudrait faire quelque-chose pour mettre en relation les retraités qui ont un savoir-faire à transmettre, et les jeunes qui ont envie d'apprendre, et besoin de faire une vidange (par exemple)
+
+Il existe un truc dans le genre, ce sont les SEL (systèmes d'échanges solidaires). 
+Plutôt que de t'expliquer, hop, wikipedia : https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27%C3%A9change_local
+
+Depuis plus de 10 ans, je connais ce principe (depuis que je m'intéresse à l'écologie et à la décroissance en fait, c'est-à-dire 2005-2006) mais je ne me suis jamais inscrit dans aucun SEL pour plusieurs raisons :
+- au début je pensais ne rien avoir à apporter
+- les sites des SEL que j'aurais pu fréquenter n'étaient pas à jour du tout, ou ne donnait pas envie (http://www.troc-au-sel-chapelain.fr/)
+- je suis une grosse nulle.
+
+
+Donc mon idée de projet perso (à faire en plusieurs phases je pense):
+
+ * *phase 1* : une plateforme de mise en relation des gens qui ont quelque-chose à offrir, et de gens qui cherchent quelque-chose (gestion des utilisateurs, gestion des services, des biens, aspect communautaire, géolocalisation...)
+ * *phase 2* : la possibilité pour les SEL de faire partie de cette plateforme (ce qui veut dire possibilité de faire partie d'une communauté "privée" sur le site, de gérer des monnaies virtuelles...)
+ * *phase 3* : appli mobile (un truc genre capitaine train hyper simple : "je souhaite apprendre à faire une vidange à 10 km de chez moi")
+
+
