@@ -1,12 +1,14 @@
 <template>
   <div id="app">
-    <h1>Hello La Salière </h1>
-    <ad :ad="ad"></ad> 
+    <navbar></navbar> 
+    <h1>Hello La Salière 2 </h1>
+    <ad></ad> 
   </div>
 </template>
  
 <script>
-import Ad from './Ad.vue'
+import Navbar from './components/Navbar.vue'
+import Ad from './components/Ad.vue'
  
 export default {
   name: 'application',
@@ -15,7 +17,7 @@ export default {
     }
   },
   components: {
-    Ad
+    Navbar, Ad
   }
 }
 </script>

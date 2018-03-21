@@ -1,7 +1,7 @@
 <template>
 
     <div class="row">
-        <div v-for="annonce in annonces" :annonce="annonce" class="col-sm-4 border border-secondary">
+        <div v-for="annonce in annonces" class="col-sm-4 border border-secondary">
           <b>{{annonce.title}}</b> : <br> {{annonce.description}}<br>
           <img class="img-thumbnail rounded mx-auto d-block" :src="annonce.image">
         </div>
@@ -13,7 +13,7 @@
 <script>
  
 export default {
-  props: ['annonce'],
+  name:"Ad",
   data: function () {
     return {
         annonces: [
